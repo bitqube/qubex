@@ -55,7 +55,7 @@ MaxPrice = 500000000000
 IgnorePrice = 2
 
 [Node]
-DataDir = "/data/bitqube"
+DataDir = "/data/qubex"
 IPCPath = "geth.ipc"
 HTTPHost = ""
 HTTPPort = 8545
